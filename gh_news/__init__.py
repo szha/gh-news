@@ -16,7 +16,7 @@ import pystache
 from termcolor import colored
 from github import Github
 
-REPO = "apache/incubator-tvm"
+REPO = "apache/incubator-mxnet"
 
 def date_filter_for_month(month, year):
     _, num_days = calendar.monthrange(year, month)

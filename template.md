@@ -1,7 +1,7 @@
-# TVM Monthly - {{month}} {{year}}
+# MXNet Monthly - {{month}} {{year}}
 
-As discussed by the TVM PPMC, our goal is to provide a monthly summary of the project so users and
-developers can get a better understanding of the goings on of the TVM community.
+As discussed by the MXNet PPMC, our goal is to provide a monthly summary of the project so users and
+developers can get a better understanding of the goings on of the MXNet community.
 
 Feedback and suggestions are welcomed so that we can further improve these updates.
 

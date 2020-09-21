@@ -1,6 +1,6 @@
-# TVM News
+# MXNet News
 
-A tool for generating the TVM newsletter's detailed statistics.
+A tool for generating the MXNet newsletter's detailed statistics.
 The initial version of this tool was borrowed from
 [Ziheng Jiang](https://github.com/ZihengJiang) and others.
 In order to make it more discoverable and reusable I packaged it
